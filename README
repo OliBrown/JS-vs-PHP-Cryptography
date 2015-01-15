@@ -1,0 +1,12 @@
+JS vs PHP Cryptography
+
+Javascript and PHP cryptography functions working side by side.
+
+- AES - 
+Encrypt/Decrypt
+
+- RSA - 
+Generate key pair - Encrypt/Decrypt - Sign/Verify
+
+- Hashing -
+SHA1 - SHA256 - MD5 - HMAC
